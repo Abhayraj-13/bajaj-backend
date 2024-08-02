@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+*.pyc
+.gitattributes
+*.DS_Store
+*venv
+.vercel
